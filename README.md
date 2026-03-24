@@ -3,7 +3,7 @@ Repo containing a Python script that generates a Biomeki7 .CSV input file to dil
 
 # How to run
 - Clone the repository and set up the environment with uv
-`git clone <your-repo-url>`
+`git clone <https://github.com/famotsuka/sync-OD.git>`
 `cd sync-OD`
 `uv sync`
 - Activate the environment:
