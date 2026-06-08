@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+logo_sync_OD.png
 
 # Virtual environments
 .venv
