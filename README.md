@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="logo_sync_OD.png" alt="Sync⇒OD logo" width="400">
+</p>
+
 # Synchronising OD600 of cell cultures using Biomek i7
 
 A Python script that generates a Biomek i7-compatible CSV file to dilute each cell culture to a target OD600, giving synchronised growth across a 96-well plate.
